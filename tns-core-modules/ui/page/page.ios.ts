@@ -566,4 +566,3 @@ export class PageStyler implements style.Styler {
 }
 
 PageStyler.registerHandlers();
-
